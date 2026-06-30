@@ -1,2 +1,3 @@
-# ais-private-public-info
+# By XeroxPerox - Github
+# By Chilly - Discord
 Educational purposes only.
