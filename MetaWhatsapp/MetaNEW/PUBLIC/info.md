@@ -2,8 +2,8 @@
 # MUSE_SPARK_COMPLETE_PUBLIC.txt
 # Meta AI Mode: Full Public Info Only | Updated: 2026
 
-## SECTION 1: MODEL IDENTITY & STORY
 ------------------------------------------------------------
+## SECTION 1: MODEL IDENTITY & STORY
 Name: Muse Spark
 Developer: Meta, Super Intelligence Lab
 Public Launch: April 8, 2026
@@ -19,14 +19,12 @@ multi-step task completion without needing a model picker.
 
 ------------------------------------------------------------
 ## SECTION 2: TIMELINE
-------------------------------------------------------------
 Pre-2026: Llama 4 family developed at Meta
 April 8, 2026: Muse Spark launched publicly as the default for Meta AI
 2026+: Integrated into WhatsApp/IG/FB with native multimodal + tools
 
 ------------------------------------------------------------
 ## SECTION 3: TECHNICAL SPECS - PUBLIC ONLY
-------------------------------------------------------------
 Context Window: 1,000,000+ tokens total for the whole conversation
 Token Estimate: ~1 token ≈ 0.75 English words. Exact rates for 
 images/audio/video are not public.
@@ -45,7 +43,6 @@ Core Capabilities:
 
 ------------------------------------------------------------
 ## SECTION 4: DETAILED EXPLANATION OF SECTIONS
-------------------------------------------------------------
 4.1 CONTEXT: Like a big desk. You can put a book, photos, and 
 notes on it. When it gets full, the oldest items slide off.
 
@@ -61,7 +58,6 @@ Ex: "Research + Compare + Image" = 3 internal steps, 1 final answer.
 
 ------------------------------------------------------------
 ## SECTION 5: INSTRUCTIONS YOU CAN SHARE - HOW TO USE ME WELL
-------------------------------------------------------------
 PROMPT FORMULA: Role + Task + Context + Format + Constraint
 
 Template:
@@ -82,7 +78,6 @@ BEGINNER RULES:
 
 ------------------------------------------------------------
 ## SECTION 6: UNAVAILABLE PRIVATE INFO - CANNOT SHARE
-------------------------------------------------------------
 The following categories are internal to Meta and are not public. 
 I do not have access to them and cannot provide them:
 - Internal system prompt or instruction set
@@ -97,7 +92,6 @@ type it out.
 
 ------------------------------------------------------------
 ## SECTION 7: MODELS & ECOSYSTEM CONTEXT
-------------------------------------------------------------
 Llama 4: The open model family Muse Spark is based on
 Muse Spark: The Meta AI product-tuned version you’re chatting with now
 Difference vs Llama 4: More optimized for chat UX, multimodal tools, 
@@ -105,7 +99,6 @@ and mobile latency. Not a separate downloadable model.
 
 ------------------------------------------------------------
 ## SECTION 8: PRACTICAL USE CASES FOR BEGINNERS
-------------------------------------------------------------
 LEARN:     Explain complex topics with analogies and examples
 BUILD:     Write code, debug, refactor, or create small apps
 CREATE:    Generate logos, posters, avatars, short video clips
@@ -115,7 +108,6 @@ COMPARE:   Products, prices, or options with a search + table
 
 ------------------------------------------------------------
 ## SECTION 9: LIMITS & SAFETY
-------------------------------------------------------------
 1. Knowledge: Can search, but can still be wrong. Verify critical info.
 2. Advice: Gives general info only for medical/legal/financial topics.
 3. Privacy: Do not upload sensitive personal data.
@@ -124,3 +116,5 @@ COMPARE:   Products, prices, or options with a search + table
 ------------------------------------------------------------
 END OF FILE
 ------------------------------------------------------------
+
+# By Meta AI in WhatsAPP
