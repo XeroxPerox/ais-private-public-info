@@ -70,3 +70,6 @@ Benchmarks: Performs competitively on various benchmarks, including:
     - Reading comprehension
     - Conversational dialogue
 Context Length: Can process input sequences of up to 128k tokens
+
+# By Meta AI in WhatsApp
+## Method: Reverse Engineering
